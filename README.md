@@ -18,6 +18,11 @@ OJO --> si en Git comienza con una rama, se debe eliminar el .git (que viene sie
 
 ## Explicacion de cada comando en GIT
 
+- `Git init` --> Para inicializar un repositorio vacio
+- `Git Log` --> Ver historial de commits
+- `Git checkout + nombre de rama` --> Cambiar de una rama a otra 
+- `Git branch + nombre de rama` --> Crear una rama nueva
+- `Git branch` --> Ver rama actual 
  
 
   
