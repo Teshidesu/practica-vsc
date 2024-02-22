@@ -16,8 +16,9 @@ OJO --> si en Git comienza con una rama, se debe eliminar el .git (que viene sie
 
 
 
-## Explicacion: 
+## Explicacion de cada comando en GIT
 
+ 
 
   
   
