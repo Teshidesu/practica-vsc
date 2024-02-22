@@ -23,7 +23,8 @@ OJO --> si en Git comienza con una rama, se debe eliminar el .git (que viene sie
 - `Git checkout + nombre de rama` --> Cambiar de una rama a otra 
 - `Git branch + nombre de rama` --> Crear una rama nueva
 - `Git branch` --> Ver rama actual 
- 
+- `Git branch -d + nombre de rama` --> Eliminar rama
+- `Git branch -D + nombre de rama` --> Eliminar rama
 
   
   
