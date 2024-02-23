@@ -26,5 +26,6 @@ OJO --> si en Git comienza con una rama, se debe eliminar el .git (que viene sie
 - `Git branch -d + nombre de rama` --> Eliminar rama
 - `Git branch -D + nombre de rama` --> Eliminar rama
 
+
   
   
